@@ -1,3 +1,4 @@
 .vscode
 Pipfile.lock
 app/db.sqlite3
+app/*/__pycache__
